@@ -1,0 +1,26 @@
+{
+  "name": "homebridge-broadlink-heater-cooler",
+  "version": "1.0.0",
+  "description": "homebridge-broadlink-heater-cooler plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makleso6/homebridge-broadlink-heater-cooler.git"
+  },
+  "engines": {
+    "node": ">=0.8",
+    "homebridge": ">=0.1"
+  },
+  "keywords": [
+    "broadlink"
+  ],
+  "author": "makleso6",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makleso6/homebridge-broadlink-heater-cooler/issues"
+  },
+  "homepage": "https://github.com/makleso6/homebridge-broadlink-heater-cooler#readme"
+}
