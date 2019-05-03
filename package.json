@@ -1,6 +1,6 @@
 {
   "name": "homebridge-broadlink-heater-cooler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "homebridge-broadlink-heater-cooler plugin",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,9 @@
     "homebridge": ">=0.1"
   },
   "keywords": [
+    "homebridge",
+    "homebridge-plugin",
+    "smarthome"
     "broadlink"
   ],
   "author": "makleso6",
