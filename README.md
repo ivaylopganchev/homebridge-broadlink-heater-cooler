@@ -1,6 +1,9 @@
 # broadlink-heater-cooler-homebridge
 
-simple congif
+install plugin
+[sudo] npm install -g homebridge-broadlink-heater-cooler
+
+simple config
 ```
 {
     "bridge": {
