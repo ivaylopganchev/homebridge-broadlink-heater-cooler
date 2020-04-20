@@ -16,8 +16,7 @@ simple config
     "accessories": [
         {
             "accessory": "BroadlinkHeaterCooler",
-            "name": "Air Conditioner",
-            "mac": "mac address here"
+            "name": "Air Conditioner"
         }
     ],
     "platforms": [
