@@ -1,6 +1,6 @@
 {
   "name": "homebridge-broadlink-heater-cooler",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "homebridge-broadlink-heater-cooler plugin",
   "main": "index.js",
   "scripts": {
