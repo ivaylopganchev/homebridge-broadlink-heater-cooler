@@ -16,7 +16,8 @@ simple config
     "accessories": [
         {
             "accessory": "BroadlinkHeaterCooler",
-            "name": "Air Conditioner"
+            "name": "Air Conditioner",
+            "ip":"192.168.xxx.xxx"
         }
     ],
     "platforms": [
