@@ -1,3 +1,5 @@
+# No longer support
+
 # broadlink-heater-cooler-homebridge
 
 install plugin
